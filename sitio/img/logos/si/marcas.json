@@ -1,0 +1,137 @@
+{
+ "airtable": {
+  "titulo": "Airtable",
+  "color": "#18BFFF"
+ },
+ "anthropic": {
+  "titulo": "Anthropic",
+  "color": "#191919"
+ },
+ "asana": {
+  "titulo": "Asana",
+  "color": "#F06A6A"
+ },
+ "calendly": {
+  "titulo": "Calendly",
+  "color": "#006BFF"
+ },
+ "claude": {
+  "titulo": "Claude",
+  "color": "#D97757"
+ },
+ "clickup": {
+  "titulo": "ClickUp",
+  "color": "#7B68EE"
+ },
+ "confluence": {
+  "titulo": "Confluence",
+  "color": "#172B4D"
+ },
+ "dropbox": {
+  "titulo": "Dropbox",
+  "color": "#0061FF"
+ },
+ "github": {
+  "titulo": "GitHub",
+  "color": "#181717"
+ },
+ "gitlab": {
+  "titulo": "GitLab",
+  "color": "#FC6D26"
+ },
+ "gmail": {
+  "titulo": "Gmail",
+  "color": "#EA4335"
+ },
+ "googlecalendar": {
+  "titulo": "Google Calendar",
+  "color": "#4285F4"
+ },
+ "googledocs": {
+  "titulo": "Google Docs",
+  "color": "#4285F4"
+ },
+ "googledrive": {
+  "titulo": "Google Drive",
+  "color": "#4285F4"
+ },
+ "googlesheets": {
+  "titulo": "Google Sheets",
+  "color": "#34A853"
+ },
+ "hubspot": {
+  "titulo": "HubSpot",
+  "color": "#FF7A59"
+ },
+ "intercom": {
+  "titulo": "Intercom",
+  "color": "#6AFDEF"
+ },
+ "jira": {
+  "titulo": "Jira",
+  "color": "#0052CC"
+ },
+ "make": {
+  "titulo": "Make",
+  "color": "#6D00CC"
+ },
+ "mercadopago": {
+  "titulo": "Mercado Pago",
+  "color": "#00B1EA"
+ },
+ "microsoftexcel": null,
+ "microsoftoutlook": null,
+ "microsoftteams": null,
+ "notion": {
+  "titulo": "Notion",
+  "color": "#000000"
+ },
+ "odoo": {
+  "titulo": "Odoo",
+  "color": "#714B67"
+ },
+ "onedrive": null,
+ "openai": null,
+ "quickbooks": {
+  "titulo": "QuickBooks",
+  "color": "#2CA01C"
+ },
+ "salesforce": null,
+ "shopify": {
+  "titulo": "Shopify",
+  "color": "#7AB55C"
+ },
+ "slack": null,
+ "stripe": {
+  "titulo": "Stripe",
+  "color": "#635BFF"
+ },
+ "trello": {
+  "titulo": "Trello",
+  "color": "#0052CC"
+ },
+ "whatsapp": {
+  "titulo": "WhatsApp",
+  "color": "#25D366"
+ },
+ "woocommerce": {
+  "titulo": "WooCommerce",
+  "color": "#96588A"
+ },
+ "wordpress": {
+  "titulo": "WordPress",
+  "color": "#21759B"
+ },
+ "zapier": {
+  "titulo": "Zapier",
+  "color": "#FF4F00"
+ },
+ "zendesk": {
+  "titulo": "Zendesk",
+  "color": "#03363D"
+ },
+ "zoho": {
+  "titulo": "Zoho",
+  "color": "#E42527"
+ }
+}
