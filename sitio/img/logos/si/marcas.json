@@ -79,9 +79,18 @@
   "titulo": "Mercado Pago",
   "color": "#00B1EA"
  },
- "microsoftexcel": null,
- "microsoftoutlook": null,
- "microsoftteams": null,
+ "microsoftexcel": {
+  "titulo": "Excel",
+  "color": "#217346"
+ },
+ "microsoftoutlook": {
+  "titulo": "Outlook",
+  "color": "#0078D4"
+ },
+ "microsoftteams": {
+  "titulo": "Teams",
+  "color": "#6264A7"
+ },
  "notion": {
   "titulo": "Notion",
   "color": "#000000"
@@ -90,18 +99,30 @@
   "titulo": "Odoo",
   "color": "#714B67"
  },
- "onedrive": null,
- "openai": null,
+ "onedrive": {
+  "titulo": "OneDrive",
+  "color": "#0078D4"
+ },
+ "openai": {
+  "titulo": "ChatGPT",
+  "color": "#000000"
+ },
  "quickbooks": {
   "titulo": "QuickBooks",
   "color": "#2CA01C"
  },
- "salesforce": null,
+ "salesforce": {
+  "titulo": "Salesforce",
+  "color": "#00A1E0"
+ },
  "shopify": {
   "titulo": "Shopify",
   "color": "#7AB55C"
  },
- "slack": null,
+ "slack": {
+  "titulo": "Slack",
+  "color": "#4A154B"
+ },
  "stripe": {
   "titulo": "Stripe",
   "color": "#635BFF"
@@ -133,5 +154,277 @@
  "zoho": {
   "titulo": "Zoho",
   "color": "#E42527"
+ },
+ "sap": {
+  "titulo": "SAP",
+  "color": "#0FAAFF"
+ },
+ "xero": {
+  "titulo": "Xero",
+  "color": "#13B5EA"
+ },
+ "paypal": {
+  "titulo": "PayPal",
+  "color": "#002991"
+ },
+ "wise": {
+  "titulo": "Wise",
+  "color": "#9FE870"
+ },
+ "revolut": {
+  "titulo": "Revolut",
+  "color": "#191C1F"
+ },
+ "visa": {
+  "titulo": "Visa",
+  "color": "#1A1F71"
+ },
+ "mastercard": {
+  "titulo": "MasterCard",
+  "color": "#EB001B"
+ },
+ "americanexpress": {
+  "titulo": "American Express",
+  "color": "#2E77BC"
+ },
+ "prestashop": {
+  "titulo": "PrestaShop",
+  "color": "#DF0067"
+ },
+ "wix": {
+  "titulo": "Wix",
+  "color": "#0C6EFC"
+ },
+ "squarespace": {
+  "titulo": "Squarespace",
+  "color": "#000000"
+ },
+ "webflow": {
+  "titulo": "Webflow",
+  "color": "#146EF5"
+ },
+ "bigcommerce": {
+  "titulo": "BigCommerce",
+  "color": "#121118"
+ },
+ "ebay": {
+  "titulo": "eBay",
+  "color": "#E53238"
+ },
+ "aliexpress": {
+  "titulo": "AliExpress",
+  "color": "#FF4747"
+ },
+ "ubereats": {
+  "titulo": "Uber Eats",
+  "color": "#06C167"
+ },
+ "googleslides": {
+  "titulo": "Google Slides",
+  "color": "#FBBC04"
+ },
+ "googlemeet": {
+  "titulo": "Google Meet",
+  "color": "#00897B"
+ },
+ "googleanalytics": {
+  "titulo": "Google Analytics",
+  "color": "#E37400"
+ },
+ "googleads": {
+  "titulo": "Google Ads",
+  "color": "#4285F4"
+ },
+ "googlesearchconsole": {
+  "titulo": "Google Search Console",
+  "color": "#458CF5"
+ },
+ "googlemaps": {
+  "titulo": "Google Maps",
+  "color": "#4285F4"
+ },
+ "box": {
+  "titulo": "Box",
+  "color": "#0061D5"
+ },
+ "icloud": {
+  "titulo": "iCloud",
+  "color": "#3693F3"
+ },
+ "apple": {
+  "titulo": "Apple",
+  "color": "#000000"
+ },
+ "linear": {
+  "titulo": "Linear",
+  "color": "#5E6AD2"
+ },
+ "miro": {
+  "titulo": "Miro",
+  "color": "#050038"
+ },
+ "figma": {
+  "titulo": "Figma",
+  "color": "#F24E1E"
+ },
+ "telegram": {
+  "titulo": "Telegram",
+  "color": "#26A5E4"
+ },
+ "discord": {
+  "titulo": "Discord",
+  "color": "#5865F2"
+ },
+ "zoom": {
+  "titulo": "Zoom",
+  "color": "#0B5CFF"
+ },
+ "webex": {
+  "titulo": "Webex",
+  "color": "#000000"
+ },
+ "signal": {
+  "titulo": "Signal",
+  "color": "#3B45FD"
+ },
+ "messenger": {
+  "titulo": "Messenger",
+  "color": "#0866FF"
+ },
+ "meta": {
+  "titulo": "Meta",
+  "color": "#0467DF"
+ },
+ "facebook": {
+  "titulo": "Facebook",
+  "color": "#0866FF"
+ },
+ "instagram": {
+  "titulo": "Instagram",
+  "color": "#FF0069"
+ },
+ "tiktok": {
+  "titulo": "TikTok",
+  "color": "#000000"
+ },
+ "youtube": {
+  "titulo": "YouTube",
+  "color": "#FF0000"
+ },
+ "x": {
+  "titulo": "X",
+  "color": "#000000"
+ },
+ "pinterest": {
+  "titulo": "Pinterest",
+  "color": "#BD081C"
+ },
+ "threads": {
+  "titulo": "Threads",
+  "color": "#000000"
+ },
+ "mailchimp": {
+  "titulo": "MailChimp",
+  "color": "#FFE01B"
+ },
+ "brevo": {
+  "titulo": "Brevo",
+  "color": "#0B996E"
+ },
+ "typeform": {
+  "titulo": "Typeform",
+  "color": "#262627"
+ },
+ "googleforms": {
+  "titulo": "Google Forms",
+  "color": "#7248B9"
+ },
+ "n8n": {
+  "titulo": "n8n",
+  "color": "#EA4B71"
+ },
+ "ifttt": {
+  "titulo": "IFTTT",
+  "color": "#000000"
+ },
+ "bitbucket": {
+  "titulo": "Bitbucket",
+  "color": "#0052CC"
+ },
+ "vercel": {
+  "titulo": "Vercel",
+  "color": "#000000"
+ },
+ "supabase": {
+  "titulo": "Supabase",
+  "color": "#3FCF8E"
+ },
+ "firebase": {
+  "titulo": "Firebase",
+  "color": "#DD2C00"
+ },
+ "mongodb": {
+  "titulo": "MongoDB",
+  "color": "#47A248"
+ },
+ "postgresql": {
+  "titulo": "PostgreSQL",
+  "color": "#4169E1"
+ },
+ "mysql": {
+  "titulo": "MySQL",
+  "color": "#4479A1"
+ },
+ "googlecloud": {
+  "titulo": "Google Cloud",
+  "color": "#4285F4"
+ },
+ "cloudflare": {
+  "titulo": "Cloudflare",
+  "color": "#F38020"
+ },
+ "looker": {
+  "titulo": "Looker",
+  "color": "#4285F4"
+ },
+ "metabase": {
+  "titulo": "Metabase",
+  "color": "#509EE3"
+ },
+ "todoist": {
+  "titulo": "Todoist",
+  "color": "#E44332"
+ },
+ "evernote": {
+  "titulo": "Evernote",
+  "color": "#00A82D"
+ },
+ "googlegemini": {
+  "titulo": "Google Gemini",
+  "color": "#8E75B2"
+ },
+ "perplexity": {
+  "titulo": "Perplexity",
+  "color": "#1FB8CD"
+ },
+ "helpscout": {
+  "titulo": "Help Scout",
+  "color": "#1292EE"
+ },
+ "gusto": {
+  "titulo": "Gusto",
+  "color": "#F45D48"
+ },
+ "square": {
+  "titulo": "Square",
+  "color": "#3E4348"
+ },
+ "waze": {
+  "titulo": "Waze",
+  "color": "#33CCFF"
+ },
+ "uber": {
+  "titulo": "Uber",
+  "color": "#000000"
  }
 }

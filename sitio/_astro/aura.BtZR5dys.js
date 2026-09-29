@@ -102,7 +102,6 @@ var e=e=>`/guion-visual/sitio/`+e.replace(/^\//,``),t=`
   uniform float uTiempo;
   uniform float uScroll;
   uniform float uAspecto;
-  uniform float uCaja;
   uniform vec2 uPuntero;
   uniform float uFuerza;
   
@@ -156,9 +155,6 @@ var e=e=>`/guion-visual/sitio/`+e.replace(/^\//,``),t=`
     vec2 centro = vec2(0.3 * aspecto + 0.14 * sin(uScroll * 1.3 + t * 1.2), 0.56 - 0.2 * sin(uScroll * 0.9));
     float masa = 1.0 - smoothstep(0.0, 1.15, length((vec2(vUv.x * aspecto, vUv.y) - centro) * vec2(0.8, 1.05)));
     float d = clamp(masa * 1.3 + campo * 0.32 - 0.1, 0.0, 1.0);
-    // en caja (p. ej. el panel del Cerebro): el azul llena el centro y la bruma blanca solo asoma en los bordes
-    float borde = smoothstep(0.42, 0.95, length((vUv - 0.5) * vec2(1.0, 1.25)));
-    d = mix(d, clamp(0.8 + campo * 0.16 - borde * 0.6, 0.0, 1.0), uCaja);
 
     // flujo: el desplazamiento del fluido, para que los puntos viajen con él
     vec2 flujo = 1.1 * q + 0.9 * r + vec2(t * 1.5, uScroll * 0.6);
